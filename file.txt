@@ -1,1 +1,4 @@
 Thay doi cua branch main
+
+
+Thay đổi một commit lên git
